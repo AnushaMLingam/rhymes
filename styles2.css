@@ -1,0 +1,23 @@
+body{
+  background-color: #efbbcf;
+}
+
+h1{
+  color: #821752;
+}
+
+hr{
+  border-style: dotted none none;
+  border-color:white;
+  border-width:5px;
+  height: 0px;
+  width: 5%;
+}
+
+.chick:hover{
+  background-color:#f0a500;
+}
+
+.cow:hover{
+  background-color:#335d2d;
+}
